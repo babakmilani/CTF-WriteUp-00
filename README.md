@@ -24,5 +24,10 @@ Q3) What is the third lowest open TCP port on the system?
 
 Q4) What is the lowest open UDP port on the system?
 
+*the -sU option is for UDP scans*
+*the -F option Fast Mode: scan fewer ports than the default scan*
+*#sudo nmap -sU -F ports.cityinthe.cloud*
 
-Q5 )What software is being run on TCP port 16080?
+![Q4](https://user-images.githubusercontent.com/55906428/226965733-d651f800-7fe8-4f91-8f30-b44e1ce3aca6.gif)
+
+Q5) What software is being run on TCP port 16080?
