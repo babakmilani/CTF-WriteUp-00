@@ -1,7 +1,7 @@
 # CTF-WriteUp
-Using NMAP for scanning (NCL GYM)
+##Using NMAP for scanning (NCL GYM)
 
-***Test your understanding of port scanning by scanning ports.cityinthe.cloud and answering these questions.***
+###***Test your understanding of port scanning by scanning ports.cityinthe.cloud and answering these questions.***
 
 *Q1) What is the lowest open TCP port on the system?*
 
