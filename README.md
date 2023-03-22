@@ -22,7 +22,7 @@ Q3) What is the third lowest open TCP port on the system?
 
 ![Q1](https://user-images.githubusercontent.com/55906428/226954796-9629153d-61ff-49a7-b347-6d12b5fa339d.gif)
 
-Q4)What is the lowest open UDP port on the system?
+Q4) What is the lowest open UDP port on the system?
 
 
-Q5)What software is being run on TCP port 16080?
+Q5 )What software is being run on TCP port 16080?
