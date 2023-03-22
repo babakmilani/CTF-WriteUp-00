@@ -11,6 +11,7 @@ Q1) What is the lowest open TCP port on the system?
 
 ![Q1](https://user-images.githubusercontent.com/55906428/226954144-e45717a1-b9e7-4863-a01e-356415f279a1.gif)
 
+ANSWER: 
 Q2) What is the second lowest open TCP port on the system?
 
 *#nmap -pN ports.cityinthe.cloud*
